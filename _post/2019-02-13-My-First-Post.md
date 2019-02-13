@@ -1,9 +1,8 @@
 ---
-layout: page
-title: 블로그 개설
+title: Lorem Ipsum
+updated: 2015-09-06 15:56
 ---
 
-###블로그 개설
+### The standard Lorem Ipsum passage, used since the 1500s
 
-우여곡절 끝에 github 블로그 개설을 하였다.
-요즘들어 회사에서 개발 업무를 하면서 배우는 것들 혹은 놓치는 것들을 개인적으로 정리해놔야겠다는 생각이 들어서 gihub 블로그를 활용하고자 한다.
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
