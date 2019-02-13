@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 블로그 개설
 updated: 2019-02-13 20:14
 ---
