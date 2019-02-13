@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 블로그 개설
 ---
 
